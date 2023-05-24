@@ -21,7 +21,3 @@ CASE TRUE
 END AS order_size
 FROM database2.sales;
 
-# Задача 3. Создайте таблицу “orders”, заполните ее значениями. 
-# Покажите “полный” статус заказа, используя оператор CASE.
-
-CREATE TABLE orders
